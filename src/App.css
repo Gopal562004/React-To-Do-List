@@ -6,6 +6,8 @@ h1 {
 }
 body {
   background-color: rgb(213, 205, 205) !important;
+  margin: 20px !important;
+  margin-right: 50px !important;
 }
 input {
   width: 100% !important;
