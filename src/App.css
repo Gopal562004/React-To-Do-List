@@ -1,0 +1,22 @@
+h1 {
+  font-weight: 700 !important;
+  font-size: 45px !important;
+  margin: 10px !important;
+  margin-bottom: 20px !important;
+}
+body {
+  background-color: rgb(213, 205, 205) !important;
+}
+input {
+  width: 100% !important;
+}
+.items-container {
+  text-align: left !important;
+}
+.gg-row {
+  margin: 10px 5px !important;
+}
+.gg-button{
+    min-width: 80px;
+     
+}
